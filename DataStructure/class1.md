@@ -1,2 +1,7 @@
 # Data structures class1 notes
-`hi how are you`
+Arrays
+Stacks
+Queues
+
+Learnn about--
+Postfix, prefix, infix expression
