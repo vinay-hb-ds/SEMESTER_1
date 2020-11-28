@@ -63,9 +63,9 @@ Anamoly detection is the task of identyfying observations whose characteristics 
 A good anamoly detector should have a high deteection rate and a low false alarm rate.
 Ex: Credit card fraud detection
 
-
- Exercises
 ```
+ Exercises
+ ```
 1. Discusswhether or not eachof the following activities is a data mining task.
     (a) Dividing the customers of a company accordingto their gender.
         No
